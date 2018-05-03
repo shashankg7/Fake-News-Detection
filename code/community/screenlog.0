@@ -1,0 +1,16 @@
+Network community detection. build: 14:59:29, Feb  2 2018. Time: 16:39:56 [Feb  2 2018]
+=======================================================================================
+Input graph (undirected graph) (-i:)=../BuzzFeedUserUser.txt
+Output file (-o:)=communities.txt
+Algorithm: 1:Girvan-Newman, 2:Clauset-Newman-Moore, 3:Infomap (-a:)=1
+Network community detection. build: 14:59:29, Feb  2 2018. Time: 16:40:53 [Feb  2 2018]
+=======================================================================================
+Input graph (undirected graph) (-i:)=../../Data/PolitiFact/PolitiFactUserUser.txt
+Output file (-o:)=communities_poli.txt
+Algorithm: 1:Girvan-Newman, 2:Clauset-Newman-Moore, 3:Infomap (-a:)=1
+^C
+
+
+
+
+^C
